@@ -4,7 +4,7 @@ Pre-compiled WebRTC implementation optimized for Android-based AR/VR headsets us
 
 ## Overview
 
-This repository provides ready-to-use WebRTC libraries specifically built for Android-based AR/VR headsets like Meta Quest, Pico, HTC Vive Focus, and other devices running on arm64-v8a architecture. Building WebRTC from source for these devices can be extremely challenging - we've done the hard work for you!
+This repository provides ready-to-use WebRTC libraries specifically built for Android-based AR/VR headsets like Meta Quest, Pico, HTC Vive Focus, and other devices running on arm64-v8a architecture. Building WebRTC from source for these devices can be extremely challenging - I've done the hard work for you!
 
 ## Compatibility
 
